@@ -140,23 +140,23 @@
             "imageTooSmall":"Seçilen resim yeniden boyunlandırmak için çok küçük"
         },
         "MyPurchases": {
-            "channelStay": "Channel Stay",
-            "channelStayText1": "Is the simplest way to promote your content by maintaining your visiting users within your channel.",
-            "channelStayText2": "When you aquiere",
-            "channelStayText3": "all related content shown to the visitor will be selected from your own channel.",
-            "channelStayText4": "is a monthly service for your whole channel and costs 5 TUBES per month.",
-            "channelStayButton": "Yes, I want Channel Stay",
-            "channelStaySwalTitle": "Purchase channel stay",
-            "channelStaySwalText1": "Yes, I want to keep the visiting users in my channel.",
-            "channelStaySwalText2": "Purchase channel costs 5 TUBES",
-            "channelStaySwalConfirmButton": "Yes, I want channel stay",
-            "channelStaySwalCancelButton": "No, thank you",
-            "perMonth": "Per month",
-            "perUse": "Per use",
-            "monthly": "Monthly",
-            "monthlyCost": "Monthly costs 1000 Tube",
-            "purchaseBuy": "Buy",
-            "purchaseCancel": "Cancel",
+            "channelStay": "Kanalda Kalmak",
+            "channelStayText1": "Kanalınızı ziyaret eden kullanıcılarınızı korumak içeriğinizi tanıtmanın en kolay yoludur.",
+            "channelStayText2": "Aldığınız zaman",
+            "channelStayText3": "Ziyaretçiye gösterilen ilgili tüm içerikler kendi kanalınızdan seçilecektir.",
+            "channelStayText4": "Kanalınız için aylık bir hizmettir ve aylık 5 TUBES ücrete tabidir.",
+            "channelStayButton": "Evet, Kanalda tutmayı istiyorum.",
+            "channelStaySwalTitle": "Kanalda tutmayı Satın al",
+            "channelStaySwalText1": "Evet, ziyaret eden kullanıcıları kanalımda tutmak istiyorum.",
+            "channelStaySwalText2": "Kanal satın alma maliyeti 5 TUBES",
+            "channelStaySwalConfirmButton": "Evet, kanalda kalmak istiyorum",
+            "channelStaySwalCancelButton": "Hayır, teşekkürler",
+            "perMonth": "Her Ay",
+            "perUse": "Kullanım Başına",
+            "monthly": "Aylık",
+            "monthlyCost": "Aylık Maliyeti 1000 Tubes",
+            "purchaseBuy": "Satın Al",
+            "purchaseCancel": "İptal",
             "Uses": "uses"
         },
         "MyPlaylists":{
@@ -165,7 +165,7 @@
             "editPlaylistDescription": "Açıklama",
             "editPlaylistSaveButton": "Kaydet",
             "editPlaylistDeleteButton": "Sil",
-            "editPlaylistCloseButton": "Close playlist",
+            "editPlaylistCloseButton": "Listeyi Kapat",
             "editPlaylistEmpty": "Liste boş.",
             "newPlaylist": "Yeni liste",
             "newPlaylistTitle": "Başlık",
@@ -190,7 +190,7 @@
             "noPlaylists": "Liste mevcut değil"
         },
         "Publications":{
-            "title": "Uploads",
+            "title": "Yüklemeler",
             "views": "İzlenmeler",
             "edit": "Düzenle",
             "delete": "Sil",
@@ -202,8 +202,8 @@
             "deletePublicationNotifyError": "Hata",
             "videoInfoError": "Video bilgisi hatası",
             "noUploads": "Yükleme yok",
-            "editVideo": "Edit video",
-            "makePrimaryVideo": "Set as primary video"
+            "editVideo": "Videoyu düzenle",
+            "makePrimaryVideo": "Birincil video olarak ayarla"
         },
         "LiveStreams": {
             "title": "Canlı Yayınlarım",
@@ -218,26 +218,26 @@
             "noSubscriptions": "Abonelik yok"
         },
         "Subscribers": {
-            "title": "Subscribers",
-            "subscriptionsButton": "Subscribe",
-            "unSubscriptionsButton": "Unsubscribe",
-            "noSubscriptions": "There are no subscribers"
+            "title": "Aboneler",
+            "subscriptionsButton": "Abone ol",
+            "unSubscriptionsButton": "Aboneligi kaldır",
+            "noSubscriptions": "Herhangi bir abone yok."
         },
         "Security": {
             "title": "Güvenlik",
             "authentication": "2 faktörlü kimlik doğrulama",
-            "qr": "QR Kod okutun",
+            "qr": "QR Kodu okutun",
             "code": "kod",
             "twoFactorEnabled": "Etkin",
             "twoFactorDisabled": "Etkin değil",
-            "nsfwEnabled": "NSFW enabled",
-            "nsfwDisabled" : "NSFW disabled",
+            "nsfwEnabled": "NSFW etkin",
+            "nsfwDisabled" : "NSFW etkin değil",
             "activateAuthenticationTitle": "UYARI",
-            "activateAuthenticationText": "Devam etmeden önce yetkilendirme (authenticator) uygulaası ile QR kod okuttuğunuzdan emin olun!",
+            "activateAuthenticationText": "Devam etmeden önce yetkilendirme (authenticator) uygulaası ile QR kodu okuttuğunuzdan emin olun!",
             "activateAuthenticationConfirmButton": "Tamam",
             "activateAuthenticationDeleteButton": "İptal",
-            "nsfw": "Not safe for work (NSFW)",
-            "enableNsfw": "Are you sure that you want to enable NSFW (Not Safe For Work) content?"
+            "nsfw": "İş için güvenli değiş (NSFW)",
+            "enableNsfw": "NSFW (İş İçin Güvenli Değil) içeriğini etkinleştirmek istediğinizden emin misiniz?"
         }
     },
     "Dashboard": {
@@ -248,25 +248,25 @@
         "addPlaylistButton": "Ekle",
         "addPLaylistTitle":"Ekle...",
         "live":"Canlı",
-        "ago": "ago"
+        "ago": "önce"
     },
     "Trending": {
         "views": "İzlemeler",
         "likes": "Beğeniler",
         "addPlaylists": "Listeye ekle",
         "newPlaylist": "yeni",
-        "addPlaylistButton": "Add",
-        "addPLaylistTitle":"Add to...",
-        "live":"Live"
+        "addPlaylistButton": "Ekle",
+        "addPLaylistTitle":"Ekle...",
+        "live":"Canlı"
     },
     "Newcomers": {
         "views": "İzlemeler",
         "likes": "Beğeniler",
         "addPlaylists": "Listeye ekle",
-        "newPlaylist": "yeni",
-        "addPlaylistButton": "Add",
-        "addPLaylistTitle":"Add to...",
-        "live":"Live"
+        "newPlaylist": "Yeni",
+        "addPlaylistButton": "Ekle",
+        "addPLaylistTitle":"Ekle...",
+        "live":"Canlı"
     },
     "Live": {
         "views": "İzlemeler",
@@ -328,7 +328,7 @@
             "confirmDeleteTitle": "Yayın anahtarını sil",
             "confirmDeleteText": "Yayın anahtarını silmek istediğinizden emin misiniz ?",
             "confirmDeleteButton": "SIL",
-            "textEditorPlaceholder": "Enter a text here..."
+            "textEditorPlaceholder": "Buraya bir metin girin..."
         },
         "Tutorial": {
             "title": "Hızlı Eğitim",
@@ -357,10 +357,10 @@
             "dowloadButton": "İNDİR"
         },
         "CreateKey":{
-                "noWallet": "You don't have a wallet",
-                "noWalletText": "In this way, you will not receive any revenue for this broadcast",
-                "cancelWalletButton" : "Cancel",
-                "createWalletButton": "Create Wallet"
+                "noWallet": "Cüzdanınız yok",
+                "noWalletText": "Bu şekilde, bu yayın için herhangi bir gelir elde etmeyeceksiniz",
+                "cancelWalletButton" : "İptal",
+                "createWalletButton": "Cüzdan oluştur"
         }
     },
     "Play": {
@@ -397,10 +397,10 @@
         "live": "Canlı",
         "playlist": "Liste",
         "loadMore": "Daha fazla getir",
-        "seeAnswer": "See reply",
-        "seeAnswers": "See replies",
-        "hideAnswer": "Hide reply",
-        "hideAnswers": "Hide replies",
+        "seeAnswer": "Cevabı gör",
+        "seeAnswers": "Cevapları gör",
+        "hideAnswer": "Cevabı gizle",
+        "hideAnswers": "Cevapları gizle",
         "copyClipboardIframe": "Iframe panoya kopyalandı",
         "copyClipboard": "Panoya kopyala",
         "embedVideoTitle": "Gömülü(Embed) Video",
@@ -432,32 +432,32 @@
         "innapropiateVideo": "Bu video bazı kullanıcılar için uygunsuz içerikte olabilir, Lütfen devam etmek için onay veriniz",
         "working": "Çalışıyor",
         "waiting": "Bekliyor",
-        "tipChannel": "Tip channel",
-        "amount": "Amount",
-        "2faCode": "2FA Code",
-        "tip": "Tip",
-        "close": "Close",
+        "tipChannel": "Kanala Bahşiş gönder",
+        "amount": "Miktar",
+        "2faCode": "2FA Kodu",
+        "tip": "Bahşiş",
+        "close": "Kapat",
         "mediaReport": "Media report",
-        "primaryVideo": "Set as primary video",
-        "abortError": "User aborted media playback",
-        "networkError": "There is a problem with your internet connection",
-        "decodeError": "This media appears to be corrupted",
-        "srcError": "This media appears to be corrupted",
-        "encryptedError": "This content is premium, please purchase",
-        "offlineStream": "Your desired stream appears be offline",
-        "popOutVideo": "Popout video",
-        "setPrimaryVideo": "Saved primary video",
-        "errorSavePrimaryVideo": "Error",
-        "copyrightReport": "Report Copyright Violation",
-        "yesUnpublish": "Yes unpublish",
-        "copyrigthTextSwal": "This video will be flagged and unpublished to undergo further review. Are you sure you want to continue?",
-        "iAmTheCopyright": "Yes, I am the copyright owner",
-        "iAmRepresentCopyright":"Yes, I represent the copyright owner",
-        "liveUnpublished": "Livestream unpublished",
-        "liveUnpublishedError": "Livestream unpublish error",
-        "reply": "Reply",
-        "delete": "Delete",
-        "writeReply": "Write a reply"
+        "primaryVideo": "Birincil video olarak ayarla",
+        "abortError": "Kullanıcı medya oynatmayı iptal etti",
+        "networkError": "İnternet bağlantınızda bir sorun var",
+        "decodeError": "Bu medya bozuk görünüyor",
+        "srcError": "Bu medya bozuk görünüyor",
+        "encryptedError": "Bu içerik paralı, lütfen satın alın.",
+        "offlineStream": "İstediğiniz yayın çevrimdışı görünüyor.",
+        "popOutVideo": "Videoyu dışarı çıkar",
+        "setPrimaryVideo": "Birincil video kaydedildi",
+        "errorSavePrimaryVideo": "Hata",
+        "copyrightReport": "Telif Hakkı İhlali Bildirme",
+        "yesUnpublish": "Evet yayından kaldır",
+        "copyrigthTextSwal": "Bu video daha sonra incelenmek üzere işaretlenecek ve yayından kaldırılacaktır. Devam etmek istediğine emin misin?",
+        "iAmTheCopyright": "Evet, Ben telif hakkı sahibiyim.",
+        "iAmRepresentCopyright":"Evet, Ben telif hakkı sahibini temsil ediyorum.",
+        "liveUnpublished": "Canlı yayın yayından kaldırıldı",
+        "liveUnpublishedError": "Canlı yayın yayından kaldırma hatası",
+        "reply": "Yanıt",
+        "delete": "Sil",
+        "writeReply": "Bir cevap yaz"
     },
     "Wallet": {
         "title": "Genel görürünüm",
