@@ -1243,7 +1243,7 @@
         "ok": "Tamam",
         "lifetimePeriod": "Ömür Boyu Satın alma",
         "rentalPeriod": "Kiralık",
-        "rentalHours": "saatler.",
+        "rentalHours": "Saat.",
         "currencyPrice": "İşlem para birimi",
         "price": "fiyat:",
         "usdCurrency": "USD.",
@@ -1278,12 +1278,12 @@
         "newTip": "Almış olduğunuz"
     },
     "DateSince":{
-        "years": "yıllar önce",
-        "months": "aylar önce",
-        "days": "günler önce",
-        "hours": "saatler önce",
-        "minutes": "dakikalar önce",
-        "seconds": "saniyeler önce",
+        "years": "yıl önce",
+        "months": "ay önce",
+        "days": "gün önce",
+        "hours": "saat önce",
+        "minutes": "dakika önce",
+        "seconds": "saniye önce",
         "prefix": ""
     }
 }
